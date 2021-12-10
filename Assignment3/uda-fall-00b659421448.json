@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uda-fall",
+  "private_key_id": "00b6594214488af930b10b6572b5c14db0cb62ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIwUO949MhdyIm\nCUdICWwRYjlzH4adxgo/ph9wXrrA8wfhc/WE9HFXbXl1ugQwmkFuyh1NlZ0WNygw\nBgR6NtboRAo7acpvZtKn2/IsBxnD6ddULsBNf/g7nfvxzgb5l75c6lUlg4Wll9WU\nzJ9KccJzkABRdymW6vXigOxmmTGADDr3OM6BA98Q3Iy3cAvssDsvOvm7MvBUkL0o\nnhzHq0ounLCLPKPj611AQKwWjhurbau+YjTwWyLknI9MiZ/0/Fp+EmMlU/5xDv1t\n90GvCAPZGp7u08eHk7ZYYASAKKFAx6uK9Z5b+qyBr7kiTCys0h57C1bWFZ63tr1l\nTSPzb2sJAgMBAAECggEABP45jxmBgM2TvdpxOWtykqQcxa49DOOGEbsyAPt6LZ5d\nzc+yhZIG16PTZ4gu3n6Xrge83tcfxxOsHjWoGtoOUkyO7Jde/5JRHvereEjc7TB9\nuIxJICRUqjbtsz/qkH6jr2/smjhBNLMoDsFgHNvjeDhWqbALCsPhRbbrKkoZHxQj\nddPzZyfsNKun1OzMLXUo1ACyldy/do5c6Nx1g+fzWA1Yd9u4dKdxmayoto+0bxgi\nQdHR2qOptqFYddaWjS/zCfGuLxnd0830lxgD+wzExgViAgmjg+6aslwcukVCpIM9\nVi64yF1yITfkyOmB4BZsDFhI5iHCTOyWniT5uJWe+QKBgQD6qem3CA4/I6aLeuFa\nicyIFHTIYGh272pQtc17VrX66CrMEr24fwjnCK4ASgbcAZhM1yVZ1UKhuEvMLd2P\nMUXH3g3EO1ccHQqHKWebELr+pGx3dXLjnY5n6kDgVhw1hOjnM/dqi98kIS+HsduW\nnuhpVQk2U39Usno10LM/6xhAOwKBgQDNB1rVpkwa9vhcPMXNnbty1/FymgglUqUY\nExxFqeVoZ1F1FiZKgr2rwRzRnViaoUNpRrcYmXGoE6YHaPOfF4CCn0bgwSVCLvyM\nFzvtwQynynyFK4jaPn9lhd3zGlhKybWkZC0q2N3jrcSrMABTNmLu0wfmVZDhoOVH\nYwkbYpfxiwKBgQDGBvwz9DJFIWYOpTppq5mhHAAS2U9OPuCP+MDoIt3L5iUBagDm\nQ74Fv66vXcxDfSMT+ZhxevCUEKQZH1b9LCEDwGLB11t/Q1Yw574JHFOOntluGqR0\nO+HoKIGueXj5sxHIrh5V10CnK2yAWDuxp8LWjC6l85sRj5rK7yDda16SRwKBgQCG\ngEmtmO+aTOQ3FkMpFU2wFEu3w6aOXX4iof7NEJyHdifw6Lvr64LkFsaCGHfU0O/5\nM0PQJnFyMpmbiNUxS+ipSDXmIa8AkPRqLp/I4/kaZfJ0JlAb5B4NCtnErka3oUXA\n91rOHgDKaOd46f98l1Qlmlk3WHC4I6Xlw+lohrBo6wKBgQDQp6qS79y4DKstEWlt\niMSELji3/omN+kVyBuL+T2kAGCaDo4L9S+HD2RPaKM8hfYQhrMMQG2bC4YsFJhjJ\nPvc3rLMjQQuwZEn3YcFJsuPOl9CIR2J3onIqpxbD1Kq0Rbgnu1KXRDUYd8EJjWdP\n8CC9qIX5UogYCiHgQjVc2INKyA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uda-fall@uda-fall.iam.gserviceaccount.com",
+  "client_id": "117122807726603920283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uda-fall%40uda-fall.iam.gserviceaccount.com"
+}
