@@ -23,6 +23,6 @@ a. Textblob sentiment analyzer returns two properties for a given input sentence
 Polarity is a float that lies between [-1,1], -1 indicates negative sentiment and +1 indicates positive sentiments.
 Subjectivity is also a float that lies in the range of [0,1]. Subjective sentences generally refer to opinion, emotion, or judgment.
  I instead used VADER Sentiment Analyser
-b. VADER Sentiment Analysis :
+<br/>b. VADER Sentiment Analysis :
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. VADER uses a combination of A sentiment lexicon is a list of lexical features (e.g., words) which are generally labeled according to their semantic orientation as either positive or negative. VADER not only tells about the Positivity.
 <br/>6. gensim : NLP (Natiral Language Processing) Library used for unsupervised topic modeling
