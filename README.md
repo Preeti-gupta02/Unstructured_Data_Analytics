@@ -11,3 +11,9 @@ Topic Modeling using instagram data of Zara page. Use the image Urls to run goog
 Final Assignment 
 The goal of this project is to create a model to measure the box office success of movies that have been revealed but not yet released to the public. I hope to design and deploy an analytic solution to consume unstructured data such as comments from a social media post to create a measurement of box-office success based on previous data.
 
+Libraries used :<br/>
+1. BeautifulSoup : For pulling data out of html file.
+2. nltk : To work with linguistic data, used for tokenization, stemming, classification.
+3. tqdm : A library in Python which is used for creating Progress Meters or Progress Bars. 
+4. spaCy : for linguistic data (better than nltk for industrial purpose). Used to computer word embeddings similarity between two sentences. I have used spaCy's Statistical Models : en_core_web_md: English multi-task CNN trained on OntoNotes, with GloVe vectors trained on Common Crawl. Size – 91 MB
+    ![image](https://user-images.githubusercontent.com/19946278/145664117-a9622deb-d5c3-4848-ada1-0acadac8ba63.png)
