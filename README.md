@@ -18,11 +18,12 @@ Libraries used :<br/>
 4. spaCy : for linguistic data (better than nltk for industrial purpose). Used to computer word embeddings similarity between two sentences. I have used spaCy's Statistical Models : en_core_web_md: English multi-task CNN trained on OntoNotes, with GloVe vectors trained on Common Crawl. Size – 91 MB
     ![image](https://user-images.githubusercontent.com/19946278/145664117-a9622deb-d5c3-4848-ada1-0acadac8ba63.png)
     
-Sentiment Analysis : <br/>
+5. Sentiment Analysis Libraries: <br/>
 Textblob sentiment analyzer returns two properties for a given input sentence:
 
 Polarity is a float that lies between [-1,1], -1 indicates negative sentiment and +1 indicates positive sentiments.
 Subjectivity is also a float that lies in the range of [0,1]. Subjective sentences generally refer to opinion, emotion, or judgment.
  I instead used VADER Sentiment Analyser
 VADER Sentiment Analysis :
-VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. VADER uses a combination of A sentiment lexicon is a list of lexical features (e.g., words) which are generally labeled according to their semantic orientation as either positive or negative. VADER not only tells about the Positivi
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. VADER uses a combination of A sentiment lexicon is a list of lexical features (e.g., words) which are generally labeled according to their semantic orientation as either positive or negative. VADER not only tells about the Positivity.
+6. gensim : NLP (Natiral Language Processing) Library used for unsupervised topic modeling
