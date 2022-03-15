@@ -1,6 +1,6 @@
 # Unstructured_Data_Analytics
 Assignment 1 
-Perform a competitive analysis of the entry level luxury car market in the USA. Give advice/insights based on the analysis of social media conversations. Proof Zipf's Law usig word frequencies.
+Perform a competitive analysis of the entry level luxury car market in the USA. Give advice/insights based on the analysis of social media conversations. Proof Zipf's Law using word frequencies.
 
 Assignent 2
 Building a Crowdsourced Recommendation System. The objective of this group assignment is to create the building blocks of a crowdsourced recommendation system. This recommendation system accepts user inputs about desired attributes of a product and comes up with 3 recommendations (I have used both bag of words and word embeddings to conclude that word embeddings give better results). 
